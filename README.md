@@ -24,4 +24,10 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=ff9671)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=ff9671)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=ff9671)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=ff9671)
 ![nmap](https://img.shields.io/badge/-nmap-grey?style=for-the-badge&logo=nmap&logoColor=white&labelColor=ff9671)
+<br>
+![wireshark](https://img.shields.io/badge/-wireshark-grey?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=ff9671)
+![nessus](https://img.shields.io/badge/-nessus-grey?style=for-the-badge&logo=nessus&logoColor=white&labelColor=ff9671)
+![splunk](https://img.shields.io/badge/-splunk-grey?style=for-the-badge&logo=splunk&logoColor=white&labelColor=ff9671)
+
