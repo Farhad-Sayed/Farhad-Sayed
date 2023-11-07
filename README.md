@@ -1,4 +1,4 @@
-### Hi! I'm a Full Stack Developer, Teacher and Lyricist 👋
+### Hi! I'm a High School Teacher and Lyricist 👋
 
 - 🔭 I’m currently seeking for a Security Analyst position
 - 🌱 I’m currently exploring CyberSecurity
