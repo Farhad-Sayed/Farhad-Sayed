@@ -1,7 +1,7 @@
 ### Hi! I'm a Full Stack Developer, Teacher and Lyricist 👋
 
-- 🔭 I’m currently seeking for a full stack developer position
-- 🌱 I’m currently learning React
+- 🔭 I’m currently seeking for a Security Analyst position
+- 🌱 I’m currently exploring CyberSecurity
 - 💬 Ask me about - you think
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farhad-sayed-a81066211/)
 - 😄 Pronouns: he/his
